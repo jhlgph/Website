@@ -1,0 +1,62 @@
+
+html{ 
+    margin-left: 60px;
+    margin-right: 300px;
+    background-color: rgba(140, 203, 224, 0.214);
+}
+
+ h1{
+    color: aliceblue;
+    background-color: #5994b4;
+    padding: 30px;
+    font-family:'Franklin Gothic Medium';
+    font-size: 45px;
+}
+
+h3{
+    color: rgb(255, 183, 0);
+    margin-top: 20px;
+    margin-bottom: -8px;
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 20px; 
+}
+
+h2{
+    color: rgb(255, 183, 0);
+    margin-top: 20px;
+    margin-bottom: -20px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 30px;
+}
+.biography{ 
+    font-family:"PT Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    line-height: 2.0;
+      }
+
+.Achievements{
+    font-family:"PT Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    line-height: 2.0;
+}
+
+footer{
+    font-family:"PT Sans", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+}
+
+img{
+    margin-left: 15%;
+}
+
+
+
